@@ -127,9 +127,3 @@ dmypy.json
 # VS/VSCode configurations
 .vs/
 .vscode/
-
-# Example vid (bad apple)
-*.mp4
-
-# Example audio
-*.mp3
